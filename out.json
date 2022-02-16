@@ -1,0 +1,452 @@
+{
+    "streams": [
+        {
+            "index": 0,
+            "codec_name": "aac",
+            "codec_long_name": "AAC (Advanced Audio Coding)",
+            "profile": "LC",
+            "codec_type": "audio",
+            "codec_tag_string": "mp4a",
+            "codec_tag": "0x6134706d",
+            "sample_fmt": "fltp",
+            "sample_rate": "22050",
+            "channels": 1,
+            "channel_layout": "mono",
+            "bits_per_sample": 0,
+            "r_frame_rate": "0/0",
+            "avg_frame_rate": "0/0",
+            "time_base": "1/22050",
+            "start_pts": 0,
+            "start_time": "0.000000",
+            "duration_ts": 776671614,
+            "duration": "35223.202449",
+            "bit_rate": "69738",
+            "nb_frames": "758495",
+            "disposition": {
+                "default": 1,
+                "dub": 0,
+                "original": 0,
+                "comment": 0,
+                "lyrics": 0,
+                "karaoke": 0,
+                "forced": 0,
+                "hearing_impaired": 0,
+                "visual_impaired": 0,
+                "clean_effects": 0,
+                "attached_pic": 0,
+                "timed_thumbnails": 0
+            },
+            "tags": {
+                "language": "und",
+                "handler_name": "SoundHandler",
+                "vendor_id": "[0][0][0][0]"
+            }
+        },
+        {
+            "index": 1,
+            "codec_name": "mjpeg",
+            "codec_long_name": "Motion JPEG",
+            "profile": "Baseline",
+            "codec_type": "video",
+            "codec_tag_string": "[0][0][0][0]",
+            "codec_tag": "0x0000",
+            "width": 600,
+            "height": 600,
+            "coded_width": 600,
+            "coded_height": 600,
+            "closed_captions": 0,
+            "has_b_frames": 0,
+            "sample_aspect_ratio": "1:1",
+            "display_aspect_ratio": "1:1",
+            "pix_fmt": "yuvj420p",
+            "level": -99,
+            "color_range": "pc",
+            "color_space": "bt470bg",
+            "chroma_location": "center",
+            "refs": 1,
+            "r_frame_rate": "90000/1",
+            "avg_frame_rate": "0/0",
+            "time_base": "1/90000",
+            "start_pts": 0,
+            "start_time": "0.000000",
+            "duration_ts": 3170088270,
+            "duration": "35223.203000",
+            "bits_per_raw_sample": "8",
+            "disposition": {
+                "default": 0,
+                "dub": 0,
+                "original": 0,
+                "comment": 0,
+                "lyrics": 0,
+                "karaoke": 0,
+                "forced": 0,
+                "hearing_impaired": 0,
+                "visual_impaired": 0,
+                "clean_effects": 0,
+                "attached_pic": 1,
+                "timed_thumbnails": 0
+            }
+        },
+        {
+            "index": 2,
+            "codec_name": "bin_data",
+            "codec_long_name": "binary data",
+            "codec_type": "data",
+            "codec_tag_string": "text",
+            "codec_tag": "0x74786574",
+            "r_frame_rate": "0/0",
+            "avg_frame_rate": "0/0",
+            "time_base": "1/1000",
+            "start_pts": 0,
+            "start_time": "0.000000",
+            "duration_ts": 35223203,
+            "duration": "35223.203000",
+            "nb_frames": "27",
+            "disposition": {
+                "default": 0,
+                "dub": 0,
+                "original": 0,
+                "comment": 0,
+                "lyrics": 0,
+                "karaoke": 0,
+                "forced": 0,
+                "hearing_impaired": 0,
+                "visual_impaired": 0,
+                "clean_effects": 0,
+                "attached_pic": 0,
+                "timed_thumbnails": 0
+            },
+            "tags": {
+                "creation_time": "2022-02-09T22:03:34.000000Z",
+                "language": "und"
+            }
+        }
+    ],
+    "chapters": [
+        {
+            "id": 0,
+            "time_base": "1/1000",
+            "start": 0,
+            "start_time": "0.000000",
+            "end": 17878,
+            "end_time": "17.878000",
+            "tags": {
+                "title": "Opening Credits"
+            }
+        },
+        {
+            "id": 1,
+            "time_base": "1/1000",
+            "start": 17878,
+            "start_time": "17.878000",
+            "end": 29533,
+            "end_time": "29.533000",
+            "tags": {
+                "title": "Epigraph"
+            }
+        },
+        {
+            "id": 2,
+            "time_base": "1/1000",
+            "start": 29533,
+            "start_time": "29.533000",
+            "end": 360740,
+            "end_time": "360.740000",
+            "tags": {
+                "title": "Chapter 1: One of Those Days"
+            }
+        },
+        {
+            "id": 3,
+            "time_base": "1/1000",
+            "start": 360740,
+            "start_time": "360.740000",
+            "end": 2501990,
+            "end_time": "2501.990000",
+            "tags": {
+                "title": "Chapter 2: The Will"
+            }
+        },
+        {
+            "id": 4,
+            "time_base": "1/1000",
+            "start": 2501990,
+            "start_time": "2501.990000",
+            "end": 3523015,
+            "end_time": "3523.015000",
+            "tags": {
+                "title": "Chapter 3: Time for a Drink"
+            }
+        },
+        {
+            "id": 5,
+            "time_base": "1/1000",
+            "start": 3523015,
+            "start_time": "3523.015000",
+            "end": 5599110,
+            "end_time": "5599.110000",
+            "tags": {
+                "title": "Chapter 4: Home is Where the Heart is..."
+            }
+        },
+        {
+            "id": 6,
+            "time_base": "1/1000",
+            "start": 5599110,
+            "start_time": "5599.110000",
+            "end": 6888372,
+            "end_time": "6888.372000",
+            "tags": {
+                "title": "Chapter 5: Phil Me Up"
+            }
+        },
+        {
+            "id": 7,
+            "time_base": "1/1000",
+            "start": 6888372,
+            "start_time": "6888.372000",
+            "end": 7890869,
+            "end_time": "7890.869000",
+            "tags": {
+                "title": "Chapter 6: Home Alone"
+            }
+        },
+        {
+            "id": 8,
+            "time_base": "1/1000",
+            "start": 7890869,
+            "start_time": "7890.869000",
+            "end": 9190442,
+            "end_time": "9190.442000",
+            "tags": {
+                "title": "Chapter 7: I don’t think we’re supposed to do this"
+            }
+        },
+        {
+            "id": 9,
+            "time_base": "1/1000",
+            "start": 9190442,
+            "start_time": "9190.442000",
+            "end": 10665928,
+            "end_time": "10665.928000",
+            "tags": {
+                "title": "Chapter 8: Breadcrumbs"
+            }
+        },
+        {
+            "id": 10,
+            "time_base": "1/1000",
+            "start": 10665928,
+            "start_time": "10665.928000",
+            "end": 12559234,
+            "end_time": "12559.234000",
+            "tags": {
+                "title": "Chapter 9: Happy Rebirthday to Me"
+            }
+        },
+        {
+            "id": 11,
+            "time_base": "1/1000",
+            "start": 12559234,
+            "start_time": "12559.234000",
+            "end": 14886011,
+            "end_time": "14886.011000",
+            "tags": {
+                "title": "Chapter 10: This is really real..."
+            }
+        },
+        {
+            "id": 12,
+            "time_base": "1/1000",
+            "start": 14886011,
+            "start_time": "14886.011000",
+            "end": 16466312,
+            "end_time": "16466.312000",
+            "tags": {
+                "title": "Chapter 11: The Visit"
+            }
+        },
+        {
+            "id": 13,
+            "time_base": "1/1000",
+            "start": 16466312,
+            "start_time": "16466.312000",
+            "end": 18194990,
+            "end_time": "18194.990000",
+            "tags": {
+                "title": "Chapter 12: Shrimp and Gates"
+            }
+        },
+        {
+            "id": 14,
+            "time_base": "1/1000",
+            "start": 18194990,
+            "start_time": "18194.990000",
+            "end": 19554981,
+            "end_time": "19554.981000",
+            "tags": {
+                "title": "Chapter 13: London Bridge is Burning Down"
+            }
+        },
+        {
+            "id": 15,
+            "time_base": "1/1000",
+            "start": 19554981,
+            "start_time": "19554.981000",
+            "end": 20976086,
+            "end_time": "20976.086000",
+            "tags": {
+                "title": "Chapter 14: The Devil is in the Details"
+            }
+        },
+        {
+            "id": 16,
+            "time_base": "1/1000",
+            "start": 20976086,
+            "start_time": "20976.086000",
+            "end": 22510924,
+            "end_time": "22510.924000",
+            "tags": {
+                "title": "Chapter 15: The Fountain of Youth"
+            }
+        },
+        {
+            "id": 17,
+            "time_base": "1/1000",
+            "start": 22510924,
+            "start_time": "22510.924000",
+            "end": 24637451,
+            "end_time": "24637.451000",
+            "tags": {
+                "title": "Chapter 16: Mr. Marlow and the Unlucky Professor"
+            }
+        },
+        {
+            "id": 18,
+            "time_base": "1/1000",
+            "start": 24637451,
+            "start_time": "24637.451000",
+            "end": 26669752,
+            "end_time": "26669.752000",
+            "tags": {
+                "title": "Chapter 17: Treaties and The Knives that Make them Stick"
+            }
+        },
+        {
+            "id": 19,
+            "time_base": "1/1000",
+            "start": 26669752,
+            "start_time": "26669.752000",
+            "end": 28760892,
+            "end_time": "28760.892000",
+            "tags": {
+                "title": "Chapter 18: First Coast Riot"
+            }
+        },
+        {
+            "id": 20,
+            "time_base": "1/1000",
+            "start": 28760892,
+            "start_time": "28760.892000",
+            "end": 30083267,
+            "end_time": "30083.267000",
+            "tags": {
+                "title": "Chapter 19: Fea Drunk"
+            }
+        },
+        {
+            "id": 21,
+            "time_base": "1/1000",
+            "start": 30083267,
+            "start_time": "30083.267000",
+            "end": 31392731,
+            "end_time": "31392.731000",
+            "tags": {
+                "title": "Chapter 20: The Bridge of Lions"
+            }
+        },
+        {
+            "id": 22,
+            "time_base": "1/1000",
+            "start": 31392731,
+            "start_time": "31392.731000",
+            "end": 33521349,
+            "end_time": "33521.349000",
+            "tags": {
+                "title": "Chapter 21: Sinners and Sanctuaries"
+            }
+        },
+        {
+            "id": 23,
+            "time_base": "1/1000",
+            "start": 33521349,
+            "start_time": "33521.349000",
+            "end": 34820131,
+            "end_time": "34820.131000",
+            "tags": {
+                "title": "Chapter 22: The Fallen Angel"
+            }
+        },
+        {
+            "id": 24,
+            "time_base": "1/1000",
+            "start": 34820131,
+            "start_time": "34820.131000",
+            "end": 35024511,
+            "end_time": "35024.511000",
+            "tags": {
+                "title": "Epilogue"
+            }
+        },
+        {
+            "id": 25,
+            "time_base": "1/1000",
+            "start": 35024511,
+            "start_time": "35024.511000",
+            "end": 35197915,
+            "end_time": "35197.915000",
+            "tags": {
+                "title": "Bloopers"
+            }
+        },
+        {
+            "id": 26,
+            "time_base": "1/1000",
+            "start": 35197915,
+            "start_time": "35197.915000",
+            "end": 35223202,
+            "end_time": "35223.202000",
+            "tags": {
+                "title": "End Credits"
+            }
+        }
+    ],
+    "format": {
+        "filename": "audiobooks/test.m4b",
+        "nb_streams": 3,
+        "nb_programs": 0,
+        "format_name": "mov,mp4,m4a,3gp,3g2,mj2",
+        "format_long_name": "QuickTime / MOV",
+        "start_time": "0.000000",
+        "duration": "35223.203000",
+        "size": "310176750",
+        "bit_rate": "70448",
+        "probe_score": 100,
+        "tags": {
+            "major_brand": "isom",
+            "minor_version": "512",
+            "compatible_brands": "isomiso2mp41",
+            "title": "Max Abaddon and the Will",
+            "artist": "Justin Leslie",
+            "album_artist": "Justin Leslie",
+            "album": "Max Abaddon and the Will: A Max Abaddon Urban Fantasy Novel: Max Abaddon Series, Book 1 (Unabridged)",
+            "genre": "Audiobook",
+            "date": "2020",
+            "sort_name": "Max Abaddon 1 - Max Abaddon and the Will",
+            "sort_album": "Max Abaddon 1 - Max Abaddon and the Will",
+            "copyright": "&\\#169\\;2019 Justin Leslie\\;(P)2020 Justin Leslie",
+            "encoder": "m4b-tool",
+            "media_type": "2"
+        }
+    }
+}
